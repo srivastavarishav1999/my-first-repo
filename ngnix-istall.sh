@@ -13,4 +13,4 @@ sudo systemctl start nginx
 sudo system enable nginx
 
 echo "NGNIX INSTALLED"
-
+echo "Rock and roll"
